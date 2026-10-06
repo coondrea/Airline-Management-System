@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+
+# Build output
+out/
+
+# Runtime audit log
+audit.csv
+
+# JDBC driver (download separately, see README)
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
